@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="./banner.gif" width="100%" />
@@ -138,4 +138,3 @@ Building scalable full-stack applications • Creating immersive 3D experiences 
 ### 🚀 Code • Learn • Build • Repeat
 
 </div>
-```
