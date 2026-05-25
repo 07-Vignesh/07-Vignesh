@@ -2,20 +2,20 @@
 
 <img src=".github/anime3.gif" width="100%" />
 
-# Iklash Ahamed
+# Vikneshwaran
 
-### Full Stack Developer • SDE Candidate • AI Engineer
+### Full Stack Developer • MERN Stack Developer • AI Integration
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk\&weight=600\&size=18\&duration=3500\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=850\&lines=Building+scalable+full-stack+applications;Integrating+LLMs+and+RAG+into+real+products;Crafting+immersive+3D+web+experiences;Practicing+DSA+and+problem+solving+daily;Open+for+SDE+Internship+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Building+scalable+full-stack+applications;Developing+AI-powered+web+applications;Creating+modern+responsive+web+experiences;Practicing+DSA+and+problem+solving+daily;Open+for+Software+Developer+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0e0614?style=for-the-badge\&logo=vercel\&logoColor=c084fc)](https://iklashahamed.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0614?style=for-the-badge\&logo=linkedin\&logoColor=a78bfa)](https://linkedin.com/in/iklashahamed)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge\&logo=leetcode\&logoColor=22d3ee)](https://leetcode.com/u/IklashAhamed/)
-[![GitHub](https://img.shields.io/badge/GitHub-0e0614?style=for-the-badge\&logo=github\&logoColor=a78bfa)](https://github.com/iklashahamed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e0614?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://vikneshwaran.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0614?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/viknesh-waran)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge&logo=leetcode&logoColor=22d3ee)](https://leetcode.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-0e0614?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/07-Vignesh)
 
-![](https://komarev.com/ghpvc/?username=iklashahamed\&color=c084fc\&style=flat-square\&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=07-Vignesh&color=c084fc&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -23,13 +23,13 @@
 
 ## About
 
-* B.Tech Information Technology @ Kalasalingam Academy of Research and Education (2023–2027)
-* Full Stack Developer focused on scalable PERN stack applications
-* Building AI-powered products using RAG pipelines and LLM integrations
-* Developing immersive 3D web experiences with Three.js and Next.js
-* Practicing DSA consistently for Software Development Engineer roles
-* Internship experience at DrobospaceX Automation
-* Open for SDE Internship Opportunities — 2026
+* B.Voc Software Development @ Alagappa University (2023–2026)
+* Full Stack Developer focused on scalable MERN stack applications
+* Building AI-powered web applications using Gemini AI and modern technologies
+* Developing real-time applications with WebSockets and REST APIs
+* Practicing DSA consistently for Software Developer roles
+* Internship experience at Drobospace X Automation Pvt. Ltd and SGS IT Park
+* Open for Full Stack Developer & Software Developer Opportunities
 
 ---
 
@@ -37,38 +37,38 @@
 
 ### Frontend
 
-`React` `Next.js` `TypeScript` `JavaScript`
-`Tailwind CSS` `Three.js` `HTML5` `CSS3`
+`React.js` `Next.js` `TypeScript` `JavaScript`
+`Tailwind CSS` `HTML5` `CSS3`
 
 ### Backend
 
-`Node.js` `Express.js` `Python` `REST APIs`
+`Node.js` `Express.js` `REST APIs`
 
-### Database & ORM
+### Database & Authentication
 
-`PostgreSQL` `MongoDB` `Prisma`
+`MongoDB` `SQL` `NeonDB` `Clerk Auth`
 
-### AI / ML
+### AI / Tools
 
-`LangChain` `RAG Pipelines`
-`OpenAI API` `LLM Integration`
+`Gemini AI` `LangChain`
+`FAISS` `AI Integration`
 
-### DevOps & Tools
+### Dev Tools
 
-`Git` `GitHub` `Docker`
-`JWT` `OAuth 2.0` `Vercel`
+`Git` `GitHub` `Postman`
+`Vercel` `XAMPP` `VS Code`
 
 ---
 
 ## Featured Projects
 
-| Project      | Description                          | Stack                           |
+| Project | Description | Stack |
 | :----------- | :----------------------------------- | :------------------------------ |
-| **linkED**   | Educational link management platform | Next.js · PostgreSQL · Tailwind |
-| **Unitoids** | AI-powered interactive web platform  | React · Node.js · Tailwind      |
-| **ARVR Web** | Immersive AR/VR training website     | Three.js · Next.js · GSAP       |
-| **Bus App**  | Real-time bus tracking application   | PERN Stack                      |
-| **SOS App**  | Emergency Android application        | Java · Android Studio           |
+| **SkillConnect** | AI-powered freelancing platform | MERN Stack · Clerk · Gemini AI |
+| **GoldenElite AI** | AI-powered career development platform | Next.js · NeonDB · Gemini AI |
+| **Smart Bus Tracking** | Real-time student tracking system | React.js · Node.js · WebSockets |
+| **AR/VR Web** | Interactive AR/VR web experience | Three.js · Next.js |
+| **Portfolio Website** | Modern animated developer portfolio | Next.js · Tailwind CSS |
 
 ---
 
@@ -76,13 +76,13 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/IklashAhamed?theme=dark\&font=Space%20Grotesk\&ext=heatmap\&border=0\&radius=4)](https://leetcode.com/u/IklashAhamed/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Space%20Grotesk&ext=heatmap&border=0&radius=4)](https://leetcode.com/)
 
 </div>
 
 <div align="center">
 
-Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
+DSA • Algorithms • Problem Solving • Consistency
 
 </div>
 
@@ -91,12 +91,11 @@ Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 ## Currently Learning
 
 * Data Structures & Algorithms
-* Operating Systems
-* DBMS
-* Computer Networks
 * System Design Fundamentals
 * Scalable Full Stack Architecture
-* AI + RAG Applications
+* AI + Web Applications
+* Real-Time Applications
+* Modern Backend Development
 
 ---
 
@@ -104,7 +103,7 @@ Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 
 <div align="center">
 
-![Open To Work](https://img.shields.io/badge/OPEN_TO_WORK-SDE_INTERNSHIP_2026-238636?style=for-the-badge\&labelColor=0e0614)
+![Open To Work](https://img.shields.io/badge/OPEN_TO_WORK-SOFTWARE_DEVELOPER-238636?style=for-the-badge&labelColor=0e0614)
 
 </div>
 
@@ -112,31 +111,29 @@ Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 
 ## Achievements
 
-* Top 3 — Web Innovate Hackathon
-* Internship @ DrobospaceX Automation
-* Built multiple AI-powered applications
-* Developed immersive AR/VR web experiences
-* Shipped multiple full-stack applications
+* WebHunt Event In-Charge — TechFest Hackathon @ Alagappa University
+* Participated in Smart India Hackathon (SIH)
+* Secured 5th Place in Hackathon at Vidhyagiri Arts & Science College
+* Built multiple AI-powered full-stack applications
+* Developed real-time and modern web applications
 
 ---
 
 ## GitHub Stats
 
-
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahamedin&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=07-Vignesh&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahamedin&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=07-Vignesh&theme=tokyonight)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahamedin&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=07-Vignesh&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
-
 
 ---
 
@@ -144,13 +141,13 @@ Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0614?style=for-the-badge\&logo=linkedin\&logoColor=a78bfa)](https://linkedin.com/in/iklashahamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0614?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/viknesh-waran)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0e0614?style=for-the-badge\&logo=vercel\&logoColor=c084fc)](https://iklashahamed.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e0614?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://vikneshwaran.dev)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge\&logo=leetcode\&logoColor=22d3ee)](https://leetcode.com/u/IklashAhamed/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge&logo=leetcode&logoColor=22d3ee)](https://leetcode.com/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-0e0614?style=for-the-badge\&logo=github\&logoColor=a78bfa)](https://github.com/iklashahamed)
+[![GitHub](https://img.shields.io/badge/GitHub-0e0614?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/07-Vignesh)
 
 </div>
 
@@ -158,6 +155,6 @@ Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 
 <div align="center">
 
-### Code • Solve • Optimize • Build
+### Code • Learn • Build • Improve
 
 </div>
