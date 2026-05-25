@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Space%20Grotesk&ext=heatmap&border=0&radius=4)](https://leetcode.com/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/7VikneshVicky?theme=dark&font=Space%20Grotesk&ext=heatmap&border=0&radius=4)](https://leetcode.com/)
 
 </div>
 
