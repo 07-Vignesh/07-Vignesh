@@ -1,133 +1,156 @@
-
 <div align="center">
 
-<img src="./banner.gif" width="100%" />
+<img src=".github/anime3.gif" width="100%" />
 
-# Hi 👋 I'm Vignesh
+# Iklash Ahamed
 
-### Full Stack Developer • React & Next.js Developer • AR/VR Enthusiast
+### Full Stack Developer • SDE Candidate • AI Engineer
 
-<p align="center">
-Building scalable full-stack applications • Creating immersive 3D experiences • Practicing DSA daily
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk\&weight=600\&size=18\&duration=3500\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=850\&lines=Building+scalable+full-stack+applications;Integrating+LLMs+and+RAG+into+real+products;Crafting+immersive+3D+web+experiences;Practicing+DSA+and+problem+solving+daily;Open+for+SDE+Internship+2026)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=React+%2B+Next.js+Developer;Building+Modern+Full-Stack+Applications;Creating+AR%2FVR+Experiences+with+Three.js;Learning+Backend+Architecture+and+AI;Open+for+Internship+Opportunities" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e0614?style=for-the-badge\&logo=vercel\&logoColor=c084fc)](https://iklashahamed.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0614?style=for-the-badge\&logo=linkedin\&logoColor=a78bfa)](https://linkedin.com/in/iklashahamed)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge\&logo=leetcode\&logoColor=22d3ee)](https://leetcode.com/u/IklashAhamed/)
+[![GitHub](https://img.shields.io/badge/GitHub-0e0614?style=for-the-badge\&logo=github\&logoColor=a78bfa)](https://github.com/iklashahamed)
 
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=iklashahamed\&color=c084fc\&style=flat-square\&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About
 
-- 🎓 B.Tech Information Technology Student
-- 💻 Full Stack Developer focused on React & Next.js
-- 🌐 Building scalable web applications
-- 🎨 Creating immersive AR/VR websites using Three.js
-- 📚 Practicing DSA and problem solving consistently
-- 🔥 Learning backend architecture and AI integrations
-- 🚀 Open for Internship Opportunities
+* B.Tech Information Technology @ Kalasalingam Academy of Research and Education (2023–2027)
+* Full Stack Developer focused on scalable PERN stack applications
+* Building AI-powered products using RAG pipelines and LLM integrations
+* Developing immersive 3D web experiences with Three.js and Next.js
+* Practicing DSA consistently for Software Development Engineer roles
+* Internship experience at DrobospaceX Automation
+* Open for SDE Internship Opportunities — 2026
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+`React` `Next.js` `TypeScript` `JavaScript`
+`Tailwind CSS` `Three.js` `HTML5` `CSS3`
 
 ### Backend
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-404D59?style=flat)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+`Node.js` `Express.js` `Python` `REST APIs`
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
+### Database & ORM
 
----
+`PostgreSQL` `MongoDB` `Prisma`
 
-# 🌟 Featured Projects
+### AI / ML
 
-| Project | Description | Tech Stack |
-|----------|-------------|-------------|
-| AR/VR Website | Interactive 3D training platform | Next.js • Three.js • GSAP |
-| School Dashboard | School management system | Next.js • Clerk • Prisma |
-| Food Ordering App | Role-based food ordering system | React • Clerk • Node.js |
-| Bus Tracking App | Real-time bus tracking application | MERN Stack |
-| Portfolio Website | Personal developer portfolio | Next.js • Tailwind |
+`LangChain` `RAG Pipelines`
+`OpenAI API` `LLM Integration`
+
+### DevOps & Tools
+
+`Git` `GitHub` `Docker`
+`JWT` `OAuth 2.0` `Vercel`
 
 ---
 
-# 📈 GitHub Stats
+## Featured Projects
+
+| Project      | Description                          | Stack                           |
+| :----------- | :----------------------------------- | :------------------------------ |
+| **linkED**   | Educational link management platform | Next.js · PostgreSQL · Tailwind |
+| **Unitoids** | AI-powered interactive web platform  | React · Node.js · Tailwind      |
+| **ARVR Web** | Immersive AR/VR training website     | Three.js · Next.js · GSAP       |
+| **Bus App**  | Real-time bus tracking application   | PERN Stack                      |
+| **SOS App**  | Emergency Android application        | Java · Android Studio           |
+
+---
+
+## LeetCode
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/IklashAhamed?theme=dark\&font=Space%20Grotesk\&ext=heatmap\&border=0\&radius=4)](https://leetcode.com/u/IklashAhamed/)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+## Currently Learning
 
-- Data Structures & Algorithms
-- Backend Development
-- System Design
-- AI Integrations
-- Three.js Animations
-- Scalable Architecture
-
----
-
-# 🎯 Goals
-
-- Crack Software Development Internship
-- Build production-level applications
-- Improve DSA skills
-- Learn advanced backend systems
-- Contribute to open source
+* Data Structures & Algorithms
+* Operating Systems
+* DBMS
+* Computer Networks
+* System Design Fundamentals
+* Scalable Full Stack Architecture
+* AI + RAG Applications
 
 ---
 
-# 📫 Connect With Me
+## Open For Opportunities
 
 <div align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
+![Open To Work](https://img.shields.io/badge/OPEN_TO_WORK-SDE_INTERNSHIP_2026-238636?style=for-the-badge\&labelColor=0e0614)
 
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</div>
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
+---
+
+## Achievements
+
+* Top 3 — Web Innovate Hackathon
+* Internship @ DrobospaceX Automation
+* Built multiple AI-powered applications
+* Developed immersive AR/VR web experiences
+* Shipped multiple full-stack applications
+
+---
+
+## GitHub Stats
+
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahamedin&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahamedin&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahamedin&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0614?style=for-the-badge\&logo=linkedin\&logoColor=a78bfa)](https://linkedin.com/in/iklashahamed)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e0614?style=for-the-badge\&logo=vercel\&logoColor=c084fc)](https://iklashahamed.dev)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge\&logo=leetcode\&logoColor=22d3ee)](https://leetcode.com/u/IklashAhamed/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-0e0614?style=for-the-badge\&logo=github\&logoColor=a78bfa)](https://github.com/iklashahamed)
 
 </div>
 
@@ -135,6 +158,6 @@ Building scalable full-stack applications • Creating immersive 3D experiences 
 
 <div align="center">
 
-### 🚀 Code • Learn • Build • Repeat
+### Code • Solve • Optimize • Build
 
 </div>
