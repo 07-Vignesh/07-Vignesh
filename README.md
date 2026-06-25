@@ -12,7 +12,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e0614?style=for-the-badge&logo=vercel&logoColor=c084fc)](https://vikneshwaran.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0614?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/viknesh-waran)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge&logo=leetcode&logoColor=22d3ee)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge&logo=leetcode&logoColor=22d3ee)](https://leetcode.com/u/7VikneshVicky)
 [![GitHub](https://img.shields.io/badge/GitHub-0e0614?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/07-Vignesh)
 
 ![](https://komarev.com/ghpvc/?username=07-Vignesh&color=c084fc&style=flat-square&label=PROFILE+VIEWS)
